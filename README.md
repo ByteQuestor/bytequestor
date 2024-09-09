@@ -35,7 +35,7 @@
   <thead align="center">
     <tr border: none;>
   <tbody>
-    <tr>
+    <tr> 
       <td><a href="https://github.com/pzxy-cs/pzxy-cloud-competition"><b>云计算竞赛</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
@@ -44,7 +44,7 @@
     </tr>
   </tbody>
 </table>
-
+ 
 
 <h3>Where to find me</h3>
 <p>

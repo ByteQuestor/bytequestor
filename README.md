@@ -56,7 +56,7 @@
 </table>
  
 
-<h3>可以来这里找我</h3>
+<h3>加入我</h3>
 <p>
   <a href="https://github.com/ByteQuestor/bytequestor" target="_blank">
   <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />

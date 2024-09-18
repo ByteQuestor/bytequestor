@@ -3,7 +3,7 @@
 喜欢简单的事干净的东西和清楚的感觉
 <h3 >🧑‍💻我的技术栈 </h3>
 <p style="font-size: 13px; font-weight: bold; color: #e74c3c; background-color: #ecf0f1; border: 1px solid #e74c3c; padding: 5px; border-radius: 5px; display: inline-block;">
-    他们都在假装不思进取，你别上当。
+    他们都在假装不思进取，你别上当
 </p>
 
 <p>

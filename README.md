@@ -1,13 +1,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>欢迎来到我的主页!</h1>
-<p>
-    <font font size="5">
-      <br>我的技术博客地址： 
-      <a href="https://bytequestor.github.io" target="_blank">ByteQuestor的博客</a>
-    </font>
-</p>
 
-<h3>我在学习</h3>
+<h3>我的技术栈</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
     <img alt="C" src="https://img.shields.io/badge/-C语言-2088FF?style=flat-square&logo=C&logoColor=white" />
@@ -31,6 +25,18 @@
   <img alt="BootStrap" src="https://img.shields.io/badge/-BootStrap-b058b5?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Kali" src="https://img.shields.io/badge/-kali-150808?style=flat-square&logo=kalilinux&logoColor=white" />
 </p>
+<h3>🔥 我的文章</h3>
+<p style="font-family: 'Comic Sans MS', cursive;">
+    你看，这里藏着点好东西，不点进去瞧瞧，可能错过了什么精彩哦~
+</p>
+<p>
+    <font size="5" face="Comic Sans MS">
+        <a href="https://bytequestor.github.io" target="_blank" style="font-family: 'Comic Sans MS', cursive;">这儿有颜值在线的！不来看看嘛？</a>
+    </font>
+</p>
+
+
+
 <h3>🎁 项目</h3>
 <table>
   <thead align="center">

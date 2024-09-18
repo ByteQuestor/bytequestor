@@ -1,8 +1,5 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>欢迎来到我的主页!</h1>
-
-<img src="https://raw.gitmirror.com/ByteQuestor/picture/main/japan2.jpg" style="vertical-align:middle"/>
-<h1 style="text-align: center;">1945年8月15日</h1>
 <p>
     <font font size="5">
       <br>我的技术博客地址： 
@@ -65,3 +62,6 @@
   <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a> 
 </p>
+
+<img src="https://raw.gitmirror.com/ByteQuestor/picture/main/japan2.jpg" style="vertical-align:middle"/>
+<h1 style="text-align: center;">1945年8月15日</h1>

@@ -19,6 +19,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="OpenStack" src="https://img.shields.io/badge/-OpenStack-FB542B?style=flat-square&logo=openstack&logoColor=white" />
   <img alt="MySql" src="https://img.shields.io/badge/-MySql-EC4A3F?style=flat-square&logo=MySql&logoColor=white" />
+  <img alt="nginx" src="https://img.shields.io/badge/-nginx-50B727?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-EC4A3F?style=flat-square&logo=oracle&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-F9A03C?style=flat-square&logo=OpenJDK&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-461f76?style=flat-square&logo=PHP&logoColor=white" />

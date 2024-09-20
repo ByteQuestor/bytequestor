@@ -56,7 +56,7 @@
     </tr>
 
 <tr> 
-      <td><a href="http://124.70.26.87:9231/"><b>大富翁游戏</b></a></td>
+      <td><a href="http://124.70.26.87/monopoly/"><b>大富翁游戏</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>

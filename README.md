@@ -65,7 +65,6 @@
 
   </tbody>
 </table>
- 
 
 <h3>加入我</h3>
 <p>
@@ -77,5 +76,6 @@
 <p>
     https://rahuldkjain.github.io/gh-profile-readme-generator/
 </p>
-<h1 style="text-align: center;">1945年8月15日</h1>
-<img src="https://raw.gitmirror.com/ByteQuestor/picture/main/japan2.jpg" style="vertical-align:middle"/>
+<h1 style="text-align: center;">2025年9月9日</h1>
+
+<img src="https://raw.gitmirror.com/ByteQuestor/picture/main/text/001.jpg" style="vertical-align:middle"/>
